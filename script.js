@@ -1,1 +1,0 @@
-alert("welcone to web development course")
